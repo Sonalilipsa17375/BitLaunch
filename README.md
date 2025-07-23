@@ -36,7 +36,7 @@ BitLaunch/
 └── README.md           # You're reading it!
 --- ⚙️ Tech Stack
 
-##
+## Project Structure
 
 | Layer      | Tech Used                                   |
 | ---------- | ------------------------------------------- |
@@ -46,12 +46,8 @@ BitLaunch/
 | Utilities  | `simple-git`, `redis`, `aws-sdk`            |
 | Dev Tools  | `tsc`, `npm`, `cors`, `ts-node`             |
 
-Absolutely! Here is the **complete, intuitive, and feature-rich `README.md`** for your project **BitLaunch**, all in one place:
-
 ---
-
-````markdown
-# 🚀 BitLaunch
+## 🚀 BitLaunch
 
 **BitLaunch** is a blazing-fast, developer-friendly, and intuitive platform designed to simplify the way you deploy and manage full-stack web applications — just like Vercel, but with your own creative twist.
 
